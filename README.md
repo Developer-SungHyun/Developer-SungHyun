@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Developer-SungHyun
-- 👀 I’m interested in VPS(Cloud) / C# / PHP
-- 🌱 I’m currently learning Java
+- 👋 개발자 김성현 (@Developer-SungHyun)
+- 👀 사용언어: Java, C#, .net, PHP
+- 🌱 개발 및 프로젝트 문의: ihyuner@naver.com
 
 <!---
 Developer-SungHyun/Developer-SungHyun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
